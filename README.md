@@ -2,6 +2,8 @@
 
 A MERN authentication application which leverages Material UI's design components and Redux for state management.
 
+Live Demo on Herkou: https://mern-auth-materialui-465.herokuapp.com/
+
 ## Getting Started
 
 - First, clone this repository and add a "keys.js" file in the "config/" directory with the following contents:
